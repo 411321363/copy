@@ -1,0 +1,62 @@
+[
+  {
+    "source": "announcement.txt",
+    "destination": "announcements/announcement.txt",
+    "reason": "Club announcement and preparation details."
+  },
+  {
+    "source": "announcement_copy.txt",
+    "destination": "announcements/announcement_copy.txt",
+    "reason": "Separately preserved copy; its contents are identical to announcement.txt."
+  },
+  {
+    "source": "budget_draft.txt",
+    "destination": "budget/budget_draft.txt",
+    "reason": "Unapproved simulated budget draft."
+  },
+  {
+    "source": "equipment_backup.txt",
+    "destination": "equipment/equipment_backup.txt",
+    "reason": "Separately preserved backup; its contents are identical to equipment_list.txt."
+  },
+  {
+    "source": "equipment_list.txt",
+    "destination": "equipment/equipment_list.txt",
+    "reason": "Equipment inventory list."
+  },
+  {
+    "source": "feedback_questions.txt",
+    "destination": "feedback/feedback_questions.txt",
+    "reason": "Questions for collecting feedback."
+  },
+  {
+    "source": "meeting_notes.txt",
+    "destination": "meeting-notes/meeting_notes.txt",
+    "reason": "Discussion notes for a future meeting."
+  },
+  {
+    "source": "next_steps.txt",
+    "destination": "planning/next_steps.txt",
+    "reason": "Planning next steps; explicitly says neither proposal is approved."
+  },
+  {
+    "source": "poster_text.txt",
+    "destination": "promotion/poster_text.txt",
+    "reason": "Short promotional poster copy."
+  },
+  {
+    "source": "proposal_final.txt",
+    "destination": "proposals/proposal_final.txt",
+    "reason": "Proposal version 1; kept because it differs from version 2."
+  },
+  {
+    "source": "proposal_final2.txt",
+    "destination": "proposals/proposal_final2.txt",
+    "reason": "Proposal version 2; kept as a differing version, not assumed approved."
+  },
+  {
+    "source": "rain_plan.txt",
+    "destination": "contingency/rain_plan.txt",
+    "reason": "Contingency discussion for rain; no decision is assumed."
+  }
+]
